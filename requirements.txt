@@ -1,4 +1,4 @@
 # requirememts.txt
-role="accountadmin"
+#role="accountadmin"
 snowflake-connector-python
 cffi==1.15.0
